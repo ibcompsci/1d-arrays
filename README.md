@@ -1,2 +1,2 @@
-# java-arrays
-One Dimensional Arrays
+# intro-to-programming
+
