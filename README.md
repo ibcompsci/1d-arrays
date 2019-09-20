@@ -1,2 +1,2 @@
-# 1d-arrays
+# java-arrays
 One Dimensional Arrays
