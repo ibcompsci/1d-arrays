@@ -1,5 +1,5 @@
 /**
- * Program that demonstrates if statements.
+ * If statements.
  */
 
 public class IfStatements {
