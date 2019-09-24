@@ -1,5 +1,5 @@
 /**
- * A program that demonstrates for loops.
+ * For loops.
  */
 
 public class ForLoops {
