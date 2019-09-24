@@ -1,5 +1,5 @@
 /**
- * A program that demonstrates while loops.
+ * While and do/while loops
  */
 
 public class WhileLoops {
