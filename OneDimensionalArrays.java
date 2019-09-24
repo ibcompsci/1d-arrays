@@ -1,5 +1,5 @@
 /**
- * A program to demonstrate one-dimensional arrays
+ * One-dimensional arrays
  */
 
 public class OneDimensionalArrays {
