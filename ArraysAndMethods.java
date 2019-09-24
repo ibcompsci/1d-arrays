@@ -1,7 +1,5 @@
 /**
- * A program that demonstrates the use of arrays and methods.
- * Created by Robert Griffiths on 17/9/2019
- * www.ibcompsci.net
+ * Use of arrays and methods.
  */
  
 public class ArraysAndMethods {
