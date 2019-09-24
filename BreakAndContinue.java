@@ -1,5 +1,5 @@
 /**
- * Program to demonstrate the break and continue statements.
+ * Break and continue statements.
  */
 
 public class BreakAndContinue {
