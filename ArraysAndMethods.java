@@ -5,7 +5,7 @@
 public class ArraysAndMethods {
 
     /*
-     * Declare the the needed arrays
+     * Declare the needed arrays
      */
     private static int[][] randomNumbers;
     private static int[] oddNumbers;
