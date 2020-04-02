@@ -24,7 +24,6 @@ public class Methods {
 
     }
 
-
     // check whether is number is less than another number
     private static void checkLessThan(int x, int y) {
 
@@ -36,7 +35,6 @@ public class Methods {
         }
 
     }
-
 
     // check if a boolean variable is true
     private static void checkTrue(boolean b) {
