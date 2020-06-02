@@ -1,5 +1,5 @@
 /**
- * A program that demonstrates how to use variable, operators and if statments.
+ * A program that demonstrates how to use variables, operators and if statments.
  */
  
 public class VariablesAndOperators {
