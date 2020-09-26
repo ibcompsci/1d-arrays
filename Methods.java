@@ -26,14 +26,12 @@ public class Methods {
 
     // check whether is number is less than another number
     private static void checkLessThan(int x, int y) {
-
         if (x < y) {
             System.out.println("X is less than Y");
         }
         else {
             System.out.println("X is greater than Y");
         }
-
     }
 
     // check if a boolean variable is true
